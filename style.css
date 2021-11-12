@@ -17,10 +17,14 @@ p {
     margin: 40px;
 }
 img{ 
-    width: 311px;
+    width: 350px;
     height: 400px;
     opacity: 0.5;
 }
 img:hover{
 opacity: 1.0;
+}
+.window-cat{
+    width: 1400px;
+    height: 900px;
 }
